@@ -3,6 +3,7 @@
 I'm Jordin, developer and open-source evangelist. In my free time I've built a various amount of open-source projects of my own like:
 
 - [AutomaticRoleCheck](https://github.com/jordinbrouwer/AutomaticRoleCheck) - A WoW addon to automatically accept role check pop-ups.
+- [http-status-codes](https://github.com/logiek/http-status-codes) - A package enumerating the HTTP Status Codes.
 
 If you have any 💬, you can reach me via [LinkedIn](https://www.linkedin.com/in/jordinbrouwer).
   
