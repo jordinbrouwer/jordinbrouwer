@@ -11,5 +11,5 @@ I'm Jordin, developer and open-source evangelist. In my free time I've built a v
 If you have any 💬, you can reach me via [LinkedIn](https://www.linkedin.com/in/jordinbrouwer).
 
 <a href="https://github.com/jordinbrouwer">
-  <img alt="jordinbrouwer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordinbrouwer&show_icons=true&theme=nord&count_private=true&hide_border=true" height="150">
+  <img alt="jordinbrouwer's GitHub Trends" src="https://api.githubtrends.io/user/svg/jordinbrouwer/repos?time_range=one_year&loc_metric=changed&theme=dark">
 </a>
