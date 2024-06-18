@@ -9,10 +9,6 @@ I'm Jordin, a PHP enthusiast based in The Netherlands. In my free time I've buil
 - [Laravel Google Lighthouse](https://github.com/logiek/laravel-google-lighthouse) - A package that provides a wrapper for Google Lighthouse to audit the quality of web pages with Laravel.
 
 If you have any 💬, you can reach me via [LinkedIn](https://www.linkedin.com/in/jordinbrouwer) or [mail me](mailto:git@jordinbrouwer.nl).
-
-<a href="https://github.com/jordinbrouwer">
-  <img alt="jordinbrouwer's GitHub Trends" src="https://api.githubtrends.io/user/svg/jordinbrouwer/repos?time_range=one_year&loc_metric=changed&theme=dark">
-</a>
   
 ### Support me
 If you find my work valuable or just want to show your appreciation, you can buy me a coffee!
