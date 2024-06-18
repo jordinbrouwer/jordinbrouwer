@@ -1,6 +1,6 @@
-### Hi, nice that you found my GitHub page! 👋
+## Hi, nice that you found my GitHub page! 👋
 
-I'm Jordin, developer and open-source evangelist. In my free time I've built a various amount of open-source projects of my own like:
+I'm Jordin, a PHP enthusiast based in The Netherlands. In my free time I've built a various amount of open-source projects of my own like:
 
 - [Automatic Role Check](https://github.com/jordinbrouwer/AutomaticRoleCheck) - A WoW addon to automatically accept role check pop-ups.
 - [HTTP Status Codes](https://github.com/logiek/http-status-codes) - A package enumerating the HTTP Status Codes.
@@ -8,8 +8,13 @@ I'm Jordin, developer and open-source evangelist. In my free time I've built a v
 - [Laravel Reading Time](https://github.com/logiek/laravel-reading-time) - A package which makes it easy to calculate the estimated reading time for a given piece of content with Laravel.
 - [Laravel Google Lighthouse](https://github.com/logiek/laravel-google-lighthouse) - A package that provides a wrapper for Google Lighthouse to audit the quality of web pages with Laravel.
 
-If you have any 💬, you can reach me via [LinkedIn](https://www.linkedin.com/in/jordinbrouwer).
+If you have any 💬, you can reach me via [LinkedIn](https://www.linkedin.com/in/jordinbrouwer) or [mail me](mailto:git@jordinbrouwer.nl).
 
 <a href="https://github.com/jordinbrouwer">
   <img alt="jordinbrouwer's GitHub Trends" src="https://api.githubtrends.io/user/svg/jordinbrouwer/repos?time_range=one_year&loc_metric=changed&theme=dark">
 </a>
+  
+### Support me
+If you find my work valuable or just want to show your appreciation, you can buy me a coffee!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/jordinbrouwer)
