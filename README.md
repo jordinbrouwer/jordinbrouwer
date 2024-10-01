@@ -1,6 +1,6 @@
 ## Hi, nice that you found my GitHub page! 👋
 
-I'm Jordin, a PHP enthusiast based in The Netherlands. In my free time I've built a various amount of open-source projects of my own like:
+I'm Jordin, a Software Engineer based in The Netherlands. In my free time I've built a various amount of open-source projects of my own like:
 
 - [Automatic Role Check](https://github.com/jordinbrouwer/AutomaticRoleCheck) - A WoW addon to automatically accept role check pop-ups.
 - [HTTP Status Codes](https://github.com/logiek/http-status-codes) - A package enumerating the HTTP Status Codes.
